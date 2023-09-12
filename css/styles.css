@@ -265,6 +265,9 @@ ol {
   .my-name {
     font-size: 28px;
   }
+  .contact-link {
+	font-size: 11px;
+  }
 }
 @media screen and (max-width: 510px) {
   .wrapper {
